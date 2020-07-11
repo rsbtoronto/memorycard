@@ -1,0 +1,5 @@
+.navbar {
+    display: flex;
+    box-shadow: 4px 4px 6px gray;
+    justify-content: space-between;
+  }

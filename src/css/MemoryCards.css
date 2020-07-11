@@ -1,0 +1,36 @@
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 480px;
+  background-color: rgb(0, 162, 255);
+  box-shadow: 4px 4px 10px grey;
+}
+.card-blank {
+     background: url("../images/JH.png") !important;   
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center ;     
+    height: 60px;
+    width: 80px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px black;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .card {    
+     background-size: contain !important;
+     background-repeat: no-repeat !important;
+     background-position: center ;        
+     height: 60px;
+     width: 80px;
+     border-radius: 5px;
+     box-shadow: 2px 2px 3px black;
+     padding: 10px;
+     margin: 10px;
+   }
+
+
+  
