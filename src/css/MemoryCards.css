@@ -32,5 +32,15 @@
      margin: 10px;
    }
 
+   .navbar {
+    display: flex;
+    flex-flow: row wrap;   
+    width: 480px; 
+    box-shadow: 4px 4px 6px gray;
+    justify-content: center;
+    align-items: center;
+  }
+   
+
 
   

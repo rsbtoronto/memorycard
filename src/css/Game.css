@@ -3,7 +3,24 @@
 
 }
 .cards {
-    display: flex;
-   
+    display: flex; 
     
+}
+.btn-primary {     
+    background-color: #005c80;
+    border-color: grey;
+        
+}
+.btn-primary:hover {
+    background-color:  rgb(0, 162, 255);
+    border-color: grey;
+}
+.button-group {
+    display: flex;  
+    flex-flow: row wrap;   
+    width: 480px;
+    text-align:center;
+    justify-content: center;
+    margin :10px;
+    padding:0%;
 }
